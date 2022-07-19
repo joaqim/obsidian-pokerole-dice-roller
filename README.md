@@ -1,6 +1,6 @@
 # Dice Roller
 
-Inline dice rolling for Obsidian.md.
+:warning: Initial unchanged fork in preperation for customisation for use with Pokerole Dice system, :warning:
 
 # Usage
 
