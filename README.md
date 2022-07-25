@@ -1,6 +1,6 @@
 # Dice Roller
 
-:warning: Initial unchanged fork in preperation for customisation for use with Pokerole Dice system, :warning:
+:warning: Initial unchanged fork in preparation for customization for use with Pokerole Dice system, might not be even be in active development. :warning:
 
 # Usage
 
